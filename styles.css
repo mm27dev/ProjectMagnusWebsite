@@ -53,7 +53,7 @@ header {
     
 }
 .bg-container {
-    background-image: url('chess2.jpg');
+    background-image: url('chess2.JPG');
     border: 5px solid palevioletred;
     border-radius: 0.5rem;
     
@@ -64,7 +64,7 @@ header {
     justify-content: center;
     align-items: center;
     /* Apply a blur filter to the container's background */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url('chess2.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url('chess2.JPG');
     background-size: cover; /* Ensures the image covers the element */
     background-position: center; /* Centers the background image */
 }
